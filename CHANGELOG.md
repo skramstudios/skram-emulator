@@ -5,6 +5,21 @@ Versions follow semver.
 
 ## [Unreleased]
 
+## [1.1.0] — 2026-10-27
+
+- Disc: every Skin now has a Disc twin (`…-Disc-…`, "(Dex Disc)" in Delta) with a thumbstick in
+  the D-pad's place. The disc centres wherever your thumb lands and tracks the push from there, so
+  there is no dead middle and nothing to slide off. Built for steering (Mario Kart) and anything
+  you hold a direction in. Install it beside the plain Skin and pick per game: the plain file keeps
+  the D-pad for grid movement.
+- Disc in both orientations: in portrait it sits in the D-pad's zone; in landscape Advance Full's
+  floats over the game as an outline, knob included, DS Full's sits in the band under the top
+  screen clear of both screens (plain and Reverse Disc), Color Full's sits on the left rail.
+- DS ships plain, Reverse, Disc and Reverse Disc per Theme; Advance and Color plain and Disc.
+- The 1.0.0 D-pad Skins are unchanged and ship again under the same names and identifiers.
+
+Verified on t2.
+
 ## [1.0.0] — 2026-10-22
 
 - Symmetry: every control a thumb needs, mirrored to both sides, so one

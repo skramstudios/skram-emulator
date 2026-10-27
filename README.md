@@ -72,12 +72,29 @@ height, with solid controls on the rails either side and nothing over the pictur
 - **Hero**: two forest greens, wood controls with gold rings, a Hylian blue hairline around the
   screen.
 
+### Disc
+
+Every Skin has a **Disc** twin (`…-Disc-…`): Delta's thumbstick in the D-pad's place. It centres
+wherever your thumb lands and tracks the push from there, so there is no dead middle and nothing
+to slide off. Built for steering and anything you hold a direction in; the plain Skin keeps the
+D-pad for grid movement. Install both and pick per game.
+
+<p>
+  <img src="screenshots/dex-disc/2-portrait.png" width="200" alt="Advance One, Dex Disc">
+  <img src="screenshots/ds-dex-disc/2-portrait.png" width="200" alt="DS One, Dex Disc">
+  <img src="screenshots/gbc-dex-disc/2-portrait.png" width="200" alt="Color One, Dex Disc">
+</p>
+<p>
+  <img src="screenshots/dex-disc/3-landscape.png" width="400" alt="Advance Full, Dex Disc">
+  <img src="screenshots/ds-dex-disc/3-landscape.png" width="400" alt="DS Full, Dex Disc">
+</p>
+
 ## Download
 
 Get the latest Release from the
 [Releases page](https://github.com/skramstudios/skram-emulator/releases/latest). Each Release
-carries every Skin: one `.deltaskin` per Console and Theme, named
-`Symmetry-One-<Console>-<Theme>[-Reverse]-<version>.deltaskin`, plus
+carries every Skin: one `.deltaskin` per Console, Theme and variant, named
+`Symmetry-One-<Console>-<Theme>[-Reverse][-Disc]-<version>.deltaskin`, plus
 `Symmetry-One-<version>.zip` with all of them.
 
 ## Install
